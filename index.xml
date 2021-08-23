@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Márlon Moreira</title>
+    <link>https://marlonmoreira1.github.io/portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Márlon Moreira</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Aug 2021 18:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="https://marlonmoreira1.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sistema de Recomendação</title>
+      <link>https://marlonmoreira1.github.io/portfolio/post/project-6/</link>
+      <pubDate>Sat, 21 Aug 2021 18:00:59 -0400</pubDate>
+      
+      <guid>https://marlonmoreira1.github.io/portfolio/post/project-6/</guid>
+      <description>O objetivo desse projeto é criar um sistema que possa recomendar produtos que são comprados em conjunto com muita frequência. Para isso vou usar o dataset Online-Retail que está disponível na UCI Machine Learning Repository. http://archive.ics.uci.edu/ml/datasets/online+retail. Esse conjunto dados contém todas as transações ocorridas entre 01/12/2010 e 09/12/2011 de uma empresa de varejo online do Reino Unido. Para esse projeto foi usado o pacote arules da linguagem R. Aqui você encontra o script com os códigos em R e um relatório em pdf explicando todo o processo.</description>
+    </item>
+    
+    <item>
+      <title>Estratégia para um Portfólio de ações</title>
+      <link>https://marlonmoreira1.github.io/portfolio/post/project-5/</link>
+      <pubDate>Fri, 20 Aug 2021 18:00:59 -0400</pubDate>
+      
+      <guid>https://marlonmoreira1.github.io/portfolio/post/project-5/</guid>
+      <description>Utilizando dados históricos (01-06-2013 até 30-06-2017) de uma bolsa de ações, gerei sinais de trading baseados em um indicador de momento (valor ajustado do preço da ação ao final do dia). Após gerar sinais, calculei os retornos e testei se de fato essa estratégia de momentum poderia ser rentável. Por fim, utilizando o algoritmo Prophet da biblioteca do Facebook Prophet, fiz previsões para os próximos 6 meses e avaliei a tendência de algumas ações.</description>
+    </item>
+    
+    <item>
+      <title>Estimador de Satisfação do Cliente</title>
+      <link>https://marlonmoreira1.github.io/portfolio/post/project-1/</link>
+      <pubDate>Fri, 09 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://marlonmoreira1.github.io/portfolio/post/project-1/</guid>
+      <description>Este projeto faz parte da formação Cientista de dados da Data Science Academy e o dataset utilizado está disponivel no site kaggle. Criei um preditor que consegue identificar clientes insatisfeitos no início relacionamento. Foi necessário utilizar a engenharia de atributos para a remoção de algumas variáveis que não tinham informação relavante. Especificamente na variável Target, foi necessário realizar o balanceamento das classes a fim de passar registros de modo proporcional para o estimador.</description>
+    </item>
+    
+    <item>
+      <title>Rotatividade de Clientes</title>
+      <link>https://marlonmoreira1.github.io/portfolio/post/project-2/</link>
+      <pubDate>Thu, 10 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://marlonmoreira1.github.io/portfolio/post/project-2/</guid>
+      <description>Este projeto faz parte da formação Cientista de dados da Data Science Academy. Criei um modelo que fosse capaz de antecipar se um cliente se desvincularia da operadora de telefonia ou não. O desafio neste projeto era usar apenas o algoritmo Logistic Regression e tentar obter a melhor performance possível com ele. Para isso foi necessário realizar a limpeza e engenharia de alguns atributos e também o balanceamento da variável alvo.</description>
+    </item>
+    
+    <item>
+      <title>Prevendo o consumo de Energia</title>
+      <link>https://marlonmoreira1.github.io/portfolio/post/project-3/</link>
+      <pubDate>Mon, 17 May 2021 17:00:59 -0400</pubDate>
+      
+      <guid>https://marlonmoreira1.github.io/portfolio/post/project-3/</guid>
+      <description>Este projeto faz parte da Formação Cientista de dados da Data Science Academy. Para este projeto, os dados utilizados incluem medições de sensores de temperatura e umidade de uma rede sem fio, previsão do tempo de uma estação de um aeroporto e uso de energia utilizada por luminárias. O meu trabalho aqui foi construir um modelo preditivo que pudesse prever o consumo de energia com base nos dados de sensores IoT coletados.</description>
+    </item>
+    
+    <item>
+      <title>Identificador de variações genéticas</title>
+      <link>https://marlonmoreira1.github.io/portfolio/post/project-4/</link>
+      <pubDate>Tue, 20 Apr 2021 18:00:59 -0400</pubDate>
+      
+      <guid>https://marlonmoreira1.github.io/portfolio/post/project-4/</guid>
+      <description>Este projeto faz parte da Formação Cientista de dados da Data Science Academy e utilizou o dataset do MSKCC (Memorial Sloan Kettering Cancer Center). Usando essa base de conhecimento, eu precisei desenvolver um algoritmo de aprendizado de máquina que consiguisse classificar automaticamente variações genéticas. Um modelo de Deep Learning com Keras foi utilizado para identificar as variações genéticas. Para esse dataset, eu tive que utilizar o onehotencoder para pré-processar uma variável de texto presente no conjunto de dados.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://marlonmoreira1.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marlonmoreira1.github.io/portfolio/contact/</guid>
+      <description>Me siga nessas redes sociais.
+   Plataforma URL     E-mail: marlonm.almeida@gmail.com   GitHub: https://github.com/marlonmoreira1   Linkedin: https://www.linkedin.com/in/marlonmoreiraalm/    </description>
+    </item>
+    
+  </channel>
+</rss>
