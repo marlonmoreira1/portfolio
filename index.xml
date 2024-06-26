@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfólio on Márlon Moreira de Almeida</title>
+    <link>https://marlonmoreira1.github.io/portfolio/</link>
+    <description>Recent content in Portfólio on Márlon Moreira de Almeida</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2024 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://marlonmoreira1.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Skill em Dados</title>
+      <link>https://marlonmoreira1.github.io/portfolio/post/project-1/</link>
+      <pubDate>Thu, 28 Mar 2024 10:58:08 -0400</pubDate>
+      
+      <guid>https://marlonmoreira1.github.io/portfolio/post/project-1/</guid>
+      <description>O objetivo deste projeto é contribuir com a formação de iniciantes que almejam entrar na área de dados, fornecendo uma visão baseada em dados sobre as habilidades e conhecimentos mais demandados pelo mercado. Através da coleta e análise de vagas de emprego/estágio, o projeto visa responder à pergunta: “Como se tornar um profissional de dados no Brasil?” Para isso, são identificados as ferramentas, tecnologias, soft skills, metodologias, formações acadêmicas e outros requisitos mais frequentemente requeridos nas vagas.</description>
+    </item>
+    
+    <item>
+      <title>Contato</title>
+      <link>https://marlonmoreira1.github.io/portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://marlonmoreira1.github.io/portfolio/contact/</guid>
+      <description>Me siga nessas redes sociais.
+   Plataforma URL     E-mail: marlonm.almeida@gmail.com   GitHub: https://github.com/marlonmoreira1   Linkedin: https://www.linkedin.com/in/marlonmalmeida/   Medium: https://medium.com/@marlonm.almeida    </description>
+    </item>
+    
+  </channel>
+</rss>
